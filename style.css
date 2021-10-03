@@ -330,6 +330,13 @@ p {
 /* Footer */
 #footer {
 	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+	height: 30vh;
+}
+
+.footer-object{
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 #footer .footer {
 	min-height: 200px;
